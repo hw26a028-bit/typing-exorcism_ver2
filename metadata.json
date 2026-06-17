@@ -1,0 +1,6 @@
+{
+  "name": "幽霊タイピング除霊",
+  "description": "タイピングで怨霊を退散させる除霊アクションゲーム。正確に入力して強力なスペルで幽霊を成仏させよう！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
